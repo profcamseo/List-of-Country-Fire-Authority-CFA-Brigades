@@ -1,5 +1,21 @@
 # List of Country Fire Authority Brigade
 
+EDIT REQUESTS CAN BE MADE THROUGH GITHUB [https://github.com/profcamseo/cfa-list](https://github.com/profcamseo/cfa-list)
+
+HOW TO: [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+\=======================================================================
+
+The Country Fire Authority (CFA) is the main firefighting service in Outer Metropolitan Melbourne and the rest of the state of Victoria. The CFA is one of the largest firefighting services in the World. This page is a listing of all of the brigades within the CFA.
+
+The CFA now works with Fire Rescue Victoria (FRV) and Forest Fire Management Victoria (FFMV) to provide fire suppression for both Urban and Rural fires. The old integrated CFA Volunteer and Paid CFA firefighters brigades are now separated into CFA and FRV appliances and crews. The new CFA Ballarat City brigade now has a single CFA appliance. The other Ballarat City appliances are now attached to FRV Brigade 67.
+
+The state is split up into Regions, Districts then Groups with each division having less brigades in each, however in Metropolitan Melbourne the district is the same as the region. IE: District 13 = Eastern Metropolitan Region and District 13 is the only district within the Region. Same goes for Districts 8 and 14.
+
+There are Five "Regions", Twenty "Districts" and many Groups throughout the state.
+
+
+
 | Regions    | Districts             |
 | ---------- | --------------------- |
 | North East | _12, 13, 22, 23 & 24_ |
@@ -8,63 +24,72 @@
 | South West | _4, 5, 6 & 7_         |
 | West       | _15, 16 & 17_         |
 
+
+
+UFB – Indicates an Urban brigade\
+RFB – Indicates a Rural Brigade\
+F/B – Indicates a Fire Brigade\
+FIB – Indicates a [Forestry Industry](https://web.archive.org/web/20220427221539/https://en.wikipedia.org/wiki/Forestry\_industry) Brigade\
+CGB – Indicates a Coast Guard Brigade\
+(Integrated) – Indicates a Station with Staff & Volunteers (incomplete list)
+
 ## North East Region
 
 ### DISTRICT 12
 
 #### Statewide Group
 
-* DISTRICT 12 Headquarters 2
+* DISTRICT 12 Headquarters
 
 #### Alexandra Group
 
-* Acheron 2
-* Alexandra 1
-* Alexandra 2
-* Buxton 2
-* Eildon 1
-* Koriella 2
-* Marysville 2
-* Narbethong 2
-* Taggerty 2
-* Thornton 2
-* Whanregarwen 2
-* Yarck 2
+* Acheron
+* Alexandra
+* Alexandra
+* Buxton
+* Eildon
+* Koriella
+* Marysville
+* Narbethong
+* Taggerty
+* Thornton
+* Whanregarwen
+* Yarck
 
 #### Northern Highway Group
 
-* Glenaroua 2
-* Kilmore 3
-* Nulla Vale 2
-* Pyalong 2
-* Tooborac 2
-* Wallan 2
+* Glenaroua
+* Kilmore
+* Nulla Vale
+* Pyalong
+* Tooborac
+* Wallan
 
 #### Seymour Group
 
-* Avenel 2
-* Broadford 1
-* Clonbinane 2
-* Hilldene 2
-* Seymour 1
-* Tallarook 2
-* Trawool 2
-* Upton Hill 2
-* Wandong 2
-* Whiteheads Creek-Tarcombe 3
+* Avenel
+* Broadford
+* Clonbinane
+* Hilldene
+* Seymour
+* Tallarook
+* Trawool
+* Upton Hill
+* Wandong
+* Whiteheads Creek-Tarcombe
 
 #### Yea Group
 
-* Flowerdale 2
-* Glenburn 2
-* Highlands-Caveat 2
-* Homewood 2
-* Molesworth 2
-* Murrindindi & Woodbourne 2
-* Strath Creek-Reedy Creek 2
-* [Toolangi](web/20220427221539/https:/en.wikipedia.org/wiki/Toolangi,\_Victoria/)[\[2\]](./#cite\_note-2) RFB
-* Yea 1
-* Yea & Limestone 2
+* Flowerdale
+* Glenburn
+* Highlands-Caveat
+* Homewood
+* Molesworth
+* Murrindindi & Woodbourne
+* Strath Creek-Reedy Creek
+* Toolangi RFB
+* Yea
+* Yea & Limestone
 
 ### DISTRICT 13
 
@@ -126,111 +151,111 @@
 
 #### Maroondah Group
 
-* [Badger Creek](web/20220427221539/https:/en.wikipedia.org/wiki/Badger\_Creek,\_Victoria/)[\[3\]](./#cite\_note-3) RFB
-* [Chirnside Park](web/20220427221539/https:/en.wikipedia.org/wiki/Chirnside\_Park/) UFB
-* [Coldstream](web/20220427221539/https:/en.wikipedia.org/wiki/Coldstream,\_Victoria/) RFB
-* [Dixons Creek](web/20220427221539/https:/en.wikipedia.org/wiki/Dixons\_Creek,\_Victoria/) RFB
-* [Healesville](web/20220427221539/https:/en.wikipedia.org/wiki/Healesville,\_Victoria/)[\[4\]](./#cite\_note-4) UFB
-* [Lilydale](web/20220427221539/https:/en.wikipedia.org/wiki/Lilydale,\_Victoria/)[\[5\]](./#cite\_note-5) UFB
-* [Mooroolbark](web/20220427221539/https:/en.wikipedia.org/wiki/Mooroolbark,\_Victoria/) UFB
-* [Mt Evelyn](web/20220427221539/https:/en.wikipedia.org/wiki/Mount\_Evelyn,\_Victoria/)[\[6\]](./#cite\_note-6) UFB
-* [Wonga Park](web/20220427221539/https:/en.wikipedia.org/wiki/Wonga\_Park,\_Victoria/)[\[7\]](./#cite\_note-7) RFB
-* [Yarra Glen](web/20220427221539/https:/en.wikipedia.org/wiki/Yarra\_Glen,\_Victoria/) RFB
+* Badger Creek RFB
+* Chirnside Park UFB
+* Coldstream RFB
+* Dixons Creek RFB
+* Healesville UFB
+* Lilydale UFB
+* Mooroolbark UFB
+* Mt Evelyn UFB
+* Wonga Park RFB
+* Yarra Glen RFB
 
 #### Yarra Valley Group
 
-* Little Yarra (Covers [Gladysdale](web/20220427221539/https:/en.wikipedia.org/wiki/Gladysdale,\_Victoria/) and [Powelltown](web/20220427221539/https:/en.wikipedia.org/wiki/Powelltown,\_Victoria/).
-* [Gruyere](web/20220427221539/https:/en.wikipedia.org/wiki/Gruyere,\_Victoria/) RFB
-* Hillcrest (Covers [Woori Yallock](web/20220427221539/https:/en.wikipedia.org/wiki/Woori\_Yallock,\_Victoria/) and [Launching Place](web/20220427221539/https:/en.wikipedia.org/wiki/Launching\_Place,\_Victoria/)) F/B
-* [Hoddles Creek](web/20220427221539/https:/en.wikipedia.org/wiki/Hoddles\_Creek,\_Victoria/) RFB
-* [Reefton](web/20220427221539/https:/en.wikipedia.org/wiki/Reefton,\_Victoria/) RFB
-* [Seville](web/20220427221539/https:/en.wikipedia.org/wiki/Seville,\_Victoria/) RFB
-* [Wandin](web/20220427221539/https:/en.wikipedia.org/wiki/Wandin,\_Victoria/)[\[8\]](./#cite\_note-8) RFB
-* [Warburton](web/20220427221539/https:/en.wikipedia.org/wiki/Warburton,\_Victoria/) UFB
-* [Wesburn](web/20220427221539/https:/en.wikipedia.org/wiki/Wesburn,\_Victoria/)-[Millgrove](web/20220427221539/https:/en.wikipedia.org/wiki/Millgrove,\_Victoria/) RFB
-* [Yarra Junction](web/20220427221539/https:/en.wikipedia.org/wiki/Yarra\_Junction,\_Victoria/) UFB
-* [Yellingbo](web/20220427221539/https:/en.wikipedia.org/wiki/Yellingbo,\_Victoria/) RFB
+* Little Yarra (Covers Gladysdale and Powelltown.
+* Gruyere RFB
+* Hillcrest (Covers Woori Yallock and Launching Place) F/B
+* Hoddles Creek RFB
+* Reefton RFB
+* Seville RFB
+* Wandin RFB
+* Warburton UFB
+* Wesburn-Millgrove RFB
+* Yarra Junction UFB
+* Yellingbo RFB
 
 ### DISTRICT 22
 
 #### Euroa Group
 
-* Branjee 2
-* Creightons Creek 2
-* Euroa 1
-* Gooram 2
-* Kelvin View 2
-* Locksley 2
-* Longwood 2
-* Marraweeny 2
-* Miepoll 2
-* Molka 2
-* Rigg's Creek 2
-* Ruffy 2
-* Shean's Creek 2
-* Strathbogie 2
-* Terip Terip 2
+* Branjee
+* Creightons Creek
+* Euroa
+* Gooram
+* Kelvin View
+* Locksley
+* Longwood
+* Marraweeny
+* Miepoll
+* Molka
+* Rigg's Creek
+* Ruffy
+* Shean's Creek
+* Strathbogie
+* Terip Terip
 
 #### Tabilk Group
 
-* [Arcadia](web/20220427221539/https:/en.wikipedia.org/wiki/Arcadia,\_Victoria/) 2
-* Bailieston 2
-* Moorilim 2
-* Murchison 1
-* Nagambie 3
-* Wahring 2
-* Wirrate 2
+* Arcadia
+* Bailieston
+* Moorilim
+* Murchison
+* Nagambie
+* Wahring
+* Wirrate
 
 #### Moira West Group
 
-* Barmah 2
-* Kotupna 2
-* Nathalia 1
-* Picola 2
-* Yalca & Yielima 2
-* Drumanure 2
-* Kaarimba 2
-* Katunga 2
-* Naring 2
-* Numurkah 1
-* Strathmerton 2
-* Waaia 2
-* Wunghnu 2
-* Yarroweyah 2
+* Barmah
+* Kotupna
+* Nathalia
+* Picola
+* Yalca & Yielima
+* Drumanure
+* Kaarimba
+* Katunga
+* Naring
+* Numurkah
+* Strathmerton
+* Waaia
+* Wunghnu
+* Yarroweyah
 
 #### Rodney Group
 
-* Cooma 2
-* Merrigum 1
-* NW Mooroopna 2
-* [Tatura](web/20220427221539/https:/en.wikipedia.org/wiki/Tatura/) 1
-* [Toolamba](web/20220427221539/https:/en.wikipedia.org/wiki/Toolamba,\_Victoria/) 2
-* [Undera](web/20220427221539/https:/en.wikipedia.org/wiki/Undera/) 2
+* Cooma
+* Merrigum
+* NW Mooroopna
+* Tatura
+* [Toolamba](web/20220427221539/https:/en.wikipedia.org/wiki/Toolamba,\_Victoria/)
+* [Undera](web/20220427221539/https:/en.wikipedia.org/wiki/Undera/)
 
 #### City Of Greater Shepparton Group (COGS)
 
-* Caniambo 2
-* Cosgrove & Pine Lodge 2
-* Currawa 2
-* Dookie 2
-* [Karramomus](web/20220427221539/https:/en.wikipedia.org/wiki/Karramomus/) 2
-* Kialla & District 2
-* Mooroopna 1
-* Shepparton 1
-* Shepparton East 2
-* Tallygaroopna 2
+* Caniambo
+* Cosgrove & Pine Lodge
+* Currawa
+* Dookie
+* Karramomus
+* Kialla & District
+* Mooroopna
+* Shepparton
+* Shepparton East
+* Tallygaroopna
 
 #### Tungamah Group
 
-* Almonds 2
-* Cobram 1
-* Cobram East & Boosey 2
-* Katamatite 2
-* Katandra 2
-* Muckatah 2
-* St James & District 2
-* Tungamah 1
-* Yabba North 2
+* Almonds
+* Cobram
+* Cobram East & Boosey
+* Katamatite
+* Katandra
+* Muckatah
+* St James & District
+* Tungamah
+* Yabba North
 
 #### Violet Town Group
 
