@@ -1,4 +1,4 @@
-# List of Country Fire Authority Brigade
+# List of Country Fire Authority (CFA) Brigades
 
 EDIT REQUESTS CAN BE MADE THROUGH GITHUB [https://github.com/profcamseo/cfa-list](https://github.com/profcamseo/cfa-list)
 
@@ -421,25 +421,25 @@ CGB – Indicates a Coast Guard Brigade\
 
 #### Tallangatta Group
 
-* Bethanga 2
-* Bullioh 2
-* Dartmouth 2
-* Eskdale 2
-* Granya 2
-* Mitta Mitta 2
-* Noorongong 2
-* Old Tallangatta 3
-* Talgarno 2
-* Tallangatta 3
-* Tallangatta Valley 2
+* Bethanga
+* Bullioh
+* Dartmouth
+* Eskdale
+* Granya
+* Mitta Mitta
+* Noorongong
+* Old Tallangatta
+* Talgarno
+* Tallangatta
+* Tallangatta Valley
 
 #### Wodonga Group
 
-* Baranduda 2
-* Bonegilla 2
-* Leneva 2
-* Wodonga 1 (Integrated)
-* Wodonga West 2
+* Baranduda
+* Bonegilla
+* Leneva
+* Wodonga (Integrated)
+* Wodonga West
 * District 24 Headquarters Brigade
 
 ## North West Region
@@ -835,7 +835,7 @@ CGB – Indicates a Coast Guard Brigade\
 | Yambuna        | F/B   |          |         | 1       |          |           |         |     |        |
 | **Total**      | Group |          | 3       | 8       |          |           |         |     |        |
 
-#### Gannawarra Group\[[edit](web/20220427221539/https:/en.wikipedia.org/w/index.php)]
+#### Gannawarra Group
 
 | Brigade                  | Type  | Location | Pumpers | Tankers | Slip-Ons | Support | Rescues | FCVs | Hazmat |
 | ------------------------ | ----- | -------- | ------- | ------- | -------- | ------- | ------- | ---- | ------ |

@@ -1,3 +1,3 @@
 # Table of contents
 
-* [List of Country Fire Authority Brigade](README.md)
+* [List of Country Fire Authority (CFA) Brigades](README.md)
