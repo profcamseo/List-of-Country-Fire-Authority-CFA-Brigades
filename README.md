@@ -29,7 +29,7 @@ There are Five "Regions", Twenty "Districts" and many Groups throughout the stat
 UFB – Indicates an Urban brigade\
 RFB – Indicates a Rural Brigade\
 F/B – Indicates a Fire Brigade\
-FIB – Indicates a [Forestry Industry](https://web.archive.org/web/20220427221539/https://en.wikipedia.org/wiki/Forestry\_industry) Brigade\
+FIB – Indicates a Forestry Industry Brigade\
 CGB – Indicates a Coast Guard Brigade\
 (Integrated) – Indicates a Station with Staff & Volunteers (incomplete list)
 
@@ -229,8 +229,8 @@ CGB – Indicates a Coast Guard Brigade\
 * Merrigum
 * NW Mooroopna
 * Tatura
-* [Toolamba](web/20220427221539/https:/en.wikipedia.org/wiki/Toolamba,\_Victoria/)
-* [Undera](web/20220427221539/https:/en.wikipedia.org/wiki/Undera/)
+* Toolamba
+* Undera
 
 #### City Of Greater Shepparton Group (COGS)
 
@@ -259,165 +259,165 @@ CGB – Indicates a Coast Guard Brigade\
 
 #### Violet Town Group
 
-* Balmattum 2
-* Boho 2
-* Earlston 2
-* Koonda 2
-* Violet Town 2
+* Balmattum
+* Boho
+* Earlston
+* Koonda
+* Violet Town
 
 #### Waranga Group
 
-* Colbinabbin 2
-* Corop 2
-* Corop West 2
-* Rushworth 1
-* Stanhope 1
-* Toolleen 2
+* Colbinabbin
+* Corop
+* Corop West
+* Rushworth
+* Stanhope
+* Toolleen
 
 ### DISTRICT 23
 
 #### Statewide Group
 
-* Woods Point 2
+* Woods Point
 
 #### Benalla Group
 
-* Baddaginnie 2
+* Baddaginnie
 * Benalla (Rural and Urban Brigades amalgamated in 2010)
-* Goomalibee & Upotipotpon 2
-* Goorambat 2
-* Hancock Victorian Plantations – Delatite 4
-* Lima South 2
-* Lurg 2
-* Molyullah 2
-* Samaria 2
-* Swanpool 2
-* Tatong 2
-* Warrenbayne 2
-* Whitegate 2
-* Winton 2
+* Goomalibee & Upotipotpon
+* Goorambat
+* Hancock Victorian Plantations – Delatite
+* Lima South
+* Lurg
+* Molyullah
+* Samaria
+* Swanpool
+* Tatong
+* Warrenbayne
+* Whitegate
+* Winton
 
 #### Devenish Group
 
-* Boweya 2
-* Chesney Vale 2
-* Devenish 2
-* Stewarton 2
-* Thoona 2
+* Boweya
+* Chesney Vale
+* Devenish
+* Stewarton
+* Thoona
 
 #### Mansfield Group
 
-* Barjarg 2
-* Bonnie Doon 2
-* Booroolite & District 2
-* Glenroy & Merrijig 2
-* Goughs Bay – Howes Creek 2
-* Jamieson 2
-* Maindample 2
-* Mansfield 1
-* Mansfield 2
-* Merton 2
-* Mt Buller 1
-* Tolmie & District 2
+* Barjarg
+* Bonnie Doon
+* Booroolite & District
+* Glenroy & Merrijig
+* Goughs Bay – Howes Creek
+* Jamieson
+* Maindample
+* Mansfield
+* Mansfield
+* Merton
+* Mt Buller
+* Tolmie & District
 
 #### Moyhu Group
 
-* Bobinawarrah 2
-* Carboor 2
-* Cheshunt 2
-* Edi 2
-* Milawa 2
-* Moyhu 2
-* Myrrhee 2
-* Whitfield & District 2
+* Bobinawarrah
+* Carboor
+* Cheshunt
+* Edi
+* Milawa
+* Moyhu
+* Myrrhee
+* Whitfield & District
 
 #### Wangaratta Group
 
-* Boorhaman 2
-* Bowser 2
-* Eldorado 2
-* Everton 2
-* Glenrowan 2
-* Greta 2
-* Killawarra 2
-* Laceby West 2
-* Norong 2
-* Oxley 2
-* Oxley Flats 2
-* South Wangaratta 2
-* Taminick & North Winton 2
-* Tarrawingee & District 2
-* Wangaratta 1
-* Wangaratta North 2
-* . Springhurst 2
+* Boorhaman
+* Bowser
+* Eldorado
+* Everton
+* Glenrowan
+* Greta
+* Killawarra
+* Laceby West
+* Norong
+* Oxley
+* Oxley Flats
+* South Wangaratta
+* Taminick & North Winton
+* Tarrawingee & District
+* Wangaratta
+* Wangaratta North
+* Springhurst
 
 #### Yarrawonga Group
 
-* Bundalong 2
-* Burramine 2
-* Peechelba 2
-* Wilby 2
-* Yarrawonga 1
-* Yarrawonga 2
+* Bundalong
+* Burramine
+* Peechelba
+* Wilby
+* Yarrawonga
+* Yarrawonga
 
 ### DISTRICT 24
 
 #### Corryong Group
 
-* Berringama 2
-* Biggara 2
-* Burrowye 2
-* Corryong 3 (Corryong Urban & Rural Fire Brigades amalgamated in 2011 to become the Corryong Fire Brigade.)
-* Cudgewa 2
-* Hancock Victorian Plantations – Shelley 4
-* Nariel Valley 2
-* Tintaldra 2
-* Walwa 2
+* Berringama
+* Biggara
+* Burrowye
+* Corryong (Corryong Urban & Rural Fire Brigades amalgamated in 2011 to become the Corryong Fire Brigade.)
+* Cudgewa
+* Hancock Victorian Plantations – Shelley
+* Nariel Valley
+* Tintaldra
+* Walwa
 
 #### Bogong Group
 
-* Allans Flat 2
-* Beechworth 1
-* Beechworth 2
-* Dederang 2
-* Falls Creek 1
-* Gundowring 2
-* Kergunyah 2
-* Kiewa 2
-* Mt Beauty 1
-* Sandy Creek & Charleroi 2
-* Stanley 2
-* Tawonga 2
-* Wooragee 2
-* Yackandandah 3
+* Allans Flat
+* Beechworth
+* Beechworth
+* Dederang
+* Falls Creek
+* Gundowring
+* Kergunyah
+* Kiewa
+* Mt Beauty
+* Sandy Creek & Charleroi
+* Stanley
+* Tawonga
+* Wooragee
+* Yackandandah
 
 #### Ovens Valley Group
 
-* Bowman-Murmungee 2
-* Bright 1
-* Buffalo River 2
-* Gapsted 2
-* Harrietville 2
-* Hancock Victorian Plantations – Ovens 4
-* Mt Hotham – Dinner Plain 3
-* Mudgegonga 2
-* Myrtleford 3
-* Ovens-Eurobin 2
-* Porepunkah 2
-* Rosewhite 2
-* Whorouly 2
+* Bowman-Murmungee
+* Bright
+* Buffalo River
+* Gapsted
+* Harrietville
+* Hancock Victorian Plantations – Ovens
+* Mt Hotham – Dinner Plain
+* Mudgegonga
+* Myrtleford
+* Ovens-Eurobin
+* Porepunkah
+* Rosewhite
+* Whorouly
 
 #### Rutherglen Group
 
-* Barnawartha 2
-* Browns Plains 2
-* Carlyle 2
-* Chiltern 3
-* Cornishtown 2
-* Indigo Valley 2
-* Norong 2
-* Rutherglen 3
-* Wahgunyah 1
+* Barnawartha
+* Browns Plains
+* Carlyle
+* Chiltern
+* Cornishtown
+* Indigo Valley
+* Norong
+* Rutherglen
+* Wahgunyah&#x20;
 
 #### Tallangatta Group
 
